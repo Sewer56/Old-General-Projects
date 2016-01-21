@@ -1,4 +1,4 @@
-Fast image optimizer.
+<h1>Fast image optimizer.</h1>
 
 A batch image compressor for Windows from the devs of TruePNG.
 Uses multiple software binaries (various tools) in order to slimsize the images present.
