@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Changed -->
+    <color name="card_color2">#ffffffff</color>
+    <color name="accent">#ff607D8B</color>
+    <color name="accent_dark">#ff607D8B</color>
+    <color name="primary_dark_material_dark">#ff455A64</color>
+    <color name="primary_dark_material_light">#ff455A64</color>
+    <color name="primary_material_dark">#ff607D8B</color>
+    <color name="primary_material_light">#ff607D8B</color>
+
+    <color name="orange_f1">#ff607D8B</color>
+    <color name="text_orange">#ff607D8B</color>
+    <color name="text_orange_41">#ff607D8B</color>
+    <color name="text_orange_e0">#ff607D8B</color>
+    <color name="text_orange_ff6b16">#ff607D8B</color>
+    <color name="text_red_ec4e4e">#ff607D8B</color>
+    <color name="text_red_ff4646">#ff607D8B</color>
+    <color name="HD_topicforumtitle_dark">#ff607D8B</color>
+    <color name="HD_topicshortcontent_dark">#ff607D8B</color>
+
+    <color name="abs__background_holo_dark">#ff000000</color>
+    <color name="action_mode_light_background_color">#ff607D8B</color>
+    <color name="cardview_dark_background">#ff202020</color>
+    <color name="cardview_light_background">#fffafafa</color>
+    <color name="ripple_material_dark">#ff607D8B</color>
+    <color name="ripple_material_light">#ff607D8B</color>
+    <color name="ics_menu_backgroud">#ff607D8B</color>
+
+    <color name="app_sectiontitle_yellow">#ff607D8B</color>
+    <color name="author_name">#ff607D8B</color>
+    <color name="action_mode_color">#ff607D8B</color>
+    <color name="chat_auther_name_color">#ff607D8B</color>
+    <color name="color_style_no1">#ff607D8B</color>
+    <color name="orange_b35">#ff607D8B</color>
+    <color name="orange_e064">#ff607D8B</color>
+    <color name="orange_e166">#ff607D8B</color>
+    <color name="orange_e95644">#ff607D8B</color>
+    <color name="orange_ef6437">#ff607D8B</color>
+    <color name="orange_f0642c">#ff607D8B</color>
+    <color name="orange_ff66">#ff607D8B</color>
+    <color name="orgage_FF6430">#ff607D8B</color>
+    <color name="orgage_f77533">#ff607D8B</color>
+    <color name="text_white_e9">#ff607D8B</color>
+
+    <color name="about_bg">#ff232323</color>
+    <color name="background_gray_d">#ff232323</color>
+    <color name="background_white_d">#ff232323</color>
+    <color name="join_button_color">#ff607D8B</color>
+    <color name="ics_menu_text_light">#ff607D8B</color>
+    <color name="text_black_3b">#ff607D8B</color>
+    <color name="text_black">#ff607D8B</color>
+    <color name="settings_about_button_color">#ff607D8B</color>
+    <color name="feed_filter_divice_color">#ff607D8B</color>
+    <color name="google_color">#ff607D8B</color>
+    <color name="tab_orange_text">#ff607D8B</color>
+    <color name="tab_orange_text_unselect">#ff607D8B</color>
+    <color name="tour_title_color">#ff607D8B</color>
+    <color name="ics_orange_color">#ff607D8B</color>
+    <color name="tabhost_select_color">#ff607D8B</color>
+    <color name="link_blue">#ff607D8B</color>
+    <color name="link_text_material_dark">#ff607D8B</color>
+    <color name="link_text_material_light">#ff607D8B</color>
+    <color name="common_signin_btn_default_background">#ff607D8B</color>
+    <color name="tab_checked">#ff607D8B</color>
+
+    <color name="background_white_db">#ff607D8B</color>
+    <color name="signin_google_back">#ff607D8B</color>
+    <color name="signin_google_back_press">#78909c</color>
+    <color name="onboarding_login_in">#ff607D8B</color>
+    <color name="onboarding_login_in_disabled">#90a4ae</color>
+    <color name="onboarding_login_in_select">#ff607D8B</color>
+    <color name="dark_section_color">#ff607D8B</color>
+
+    <!-- Accents: f1642c -->
+    <!-- Status light: e06430 -->
+
+</resources>

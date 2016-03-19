@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cat_light_green">#ff607D8B</color>
+    <color name="cat_light_green_20">#33607d8b</color>
+    <color name="cat_light_green_40">#66607d8b</color>
+    <color name="cat_light_green_5">#0d607d8b</color>
+	
+    <color name="cat_dark_green">#ff607d8b</color>
+    <color name="cat_dark_green_40">#66607d8b</color>
+
+    <color name="cat_medium_green">#ff607d8b</color>
+    <color name="cat_medium_green_40">#66607d8b</color>
+	
+	<color name="bg_pressed_overlay">#33607d8b</color>	
+
+    <color name="material_deep_teal_200">#ff607D8B</color>
+    <color name="material_deep_teal_500">#ff607D8B</color>	
+	
+    <color name="green">#ff607D8B</color>
+    <color name="abc_search_url_text_normal">#ff607d8b</color>
+	
+    <color name="navigation_divider">#00000000</color>
+    <color name="bg_divider">#00000000</color>
+    <color name="bg_actionbar_divider">#00000000</color>	
+	
+    <color name="activity_card_bg_normal">#ff232323</color>
+    <color name="cat_grayscale_15">#ff232323</color>
+    <color name="cat_grayscale_15_40">#66232323</color>
+    <color name="share_edit_text_bg">#ff232323</color>	
+</resources>

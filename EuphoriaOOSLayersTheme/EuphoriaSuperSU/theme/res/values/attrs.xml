@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="background" format="reference|color" />
+    <attr name="backgroundSplit" format="reference|color" />
+    <attr name="colorAccent" format="reference" />
+    <attr name="divider" format="reference" />
+    <attr name="height" format="dimension" />
+    <attr name="monoFont" format="reference" />
+    <attr name="subtitleTextStyle" format="reference" />
+    <attr name="titleTextStyle" format="reference" />
+</resources>

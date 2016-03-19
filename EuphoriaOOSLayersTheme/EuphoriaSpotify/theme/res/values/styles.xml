@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NotificationDividerLarge">
+        <item name="android:background">#ff232323</item>
+    </style>
+    <style name="NotificationDividerSmall">
+        <item name="android:background">#ff232323</item>
+    </style>
+</resources>

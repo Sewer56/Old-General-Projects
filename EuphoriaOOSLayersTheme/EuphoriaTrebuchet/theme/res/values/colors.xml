@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="quantum_panel_text_color">#ffffffff</color>
+    <color name="quantum_panel_text_shadow_color">#ffe5e5e5</color>
+	<color name="settings_bg_color">#ff232323</color>
+	<color name="settings_header_text">#ff607D8B</color>
+</resources>

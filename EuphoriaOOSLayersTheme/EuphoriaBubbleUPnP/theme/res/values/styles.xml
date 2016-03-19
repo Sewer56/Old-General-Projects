@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NowPlayingPlaybackButtonNotification">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">48.0dip</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="NowPlayingPlaybackButtonNotification.BackgroundAware" parent="@style/NowPlayingPlaybackButtonNotification">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:tint">#ffffffff</item>
+    </style>
+</resources>

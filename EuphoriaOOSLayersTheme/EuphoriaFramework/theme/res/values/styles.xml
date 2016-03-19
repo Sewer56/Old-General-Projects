@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.StatusBar.Title" parent="@*android:style/TextAppearance.StatusBar">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent" parent="@*android:style/TextAppearance.StatusBar">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.Material.Notification" parent="@*android:style/TextAppearance.Material">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.Material.Notification.Emphasis" parent="@*android:style/TextAppearance.Material.Notification">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.Material.Notification.Info" parent="@*android:style/TextAppearance.Material.Notification">
+        <item name="@android:textSize">12.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.Material.Notification.Line2" parent="@*android:style/TextAppearance.Material.Notification">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.Material.Notification.Time" parent="@*android:style/TextAppearance.Material.Notification">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.Material.Notification.Title" parent="@*android:style/TextAppearance.Material.Notification">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar" parent="@*android:style/TextAppearance">
+        <item name="@*android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Ticker" parent="@*android:style/TextAppearance.StatusBar" />
+    <style name="TextAppearance.StatusBar.EventContent.Line2" parent="@*android:style/TextAppearance.StatusBar.EventContent">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent.Info" parent="@*android:style/TextAppearance.StatusBar.EventContent">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent.Time" parent="@*android:style/TextAppearance.StatusBar.EventContent">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent.Emphasis" parent="@*android:style/TextAppearance.StatusBar.EventContent">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="Theme.DeviceDefault.Resolver" parent="@*android:style/Theme.Material.Light">
+        <item name="android:colorBackground">@*android:color/white</item>
+        <item name="android:windowBackground">@*android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textColor">#ff607d8b</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:colorControlActivated">?android:colorControlHighlight</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+        <item name="android:statusBarColor">#00000000</item>
+    </style>
+    <style name="Theme.DeviceDefault.ResolverDark" parent="@*android:style/Theme.Material">
+        <item name="android:windowBackground">@*android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textColor">#ff607d8b</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:listPreferredItemPaddingStart">?android:dialogPreferredPadding</item>
+        <item name="android:listPreferredItemPaddingEnd">?android:dialogPreferredPadding</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:colorControlActivated">?android:colorControlHighlight</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+        <item name="android:statusBarColor">#00000000</item>
+    </style>
+</resources>

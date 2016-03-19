@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Main" parent="@android:style/Theme.Material">
+        <item name="android:fadeScrollbars">true</item>
+        <item name="android:alertDialogTheme">@style/Theme.AlertDialog</item>
+        <item name="android:colorPrimary">#ff607D8B</item>
+        <item name="android:colorPrimaryDark">#ff455A64</item>
+        <item name="android:colorAccent">#ff607D8B</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#ff455A64</item>
+    </style>
+    <style name="Theme.AlertDialog" parent="@android:style/Theme.Material.Dialog.Alert">
+        <item name="android:colorPrimary">#ff607D8B</item>
+        <item name="android:colorAccent">#ff607D8B</item>
+    </style>
+</resources>

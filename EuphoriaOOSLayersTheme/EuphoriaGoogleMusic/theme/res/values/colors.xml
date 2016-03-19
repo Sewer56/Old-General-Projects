@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="play_music_primary">#ff607D8B</color>
+    <color name="play_music_recents">#ff607D8B</color>
+    <color name="play_music_secondary">#ff455A64</color>
+    <color name="play_music_light">#ff607D8B</color>
+    <color name="lb_default_search_color">#ff607D8B</color>
+    <color name="tutorial_action_item">#ff607D8B</color>
+    <color name="signup_header_text">#ff607D8B</color>
+    <color name="empty_screen_learn_more_color">#ff607D8B</color>
+    <color name="xdi_background">#ff607D8B</color>
+    <color name="sound_search_card_bg">#80607D8B</color>
+    <color name="nus_title_text_color">#ff607D8B</color>
+    <color name="leanback_launcher_background_orange">#ff455A64</color>
+    <color name="leanback_search_orb_background_color">#ff607D8B</color>
+    <color name="music_banner_color">#ff607D8B</color>
+</resources>

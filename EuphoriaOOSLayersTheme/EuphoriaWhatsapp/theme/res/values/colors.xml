@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="accent">#ff607D8B</color>
+    <color name="accent_material_dark">#ff607D8B</color>
+    <color name="accent_material_light">#ff607D8B</color>
+    <color name="action_mode">#ff607D8B</color>
+    <color name="action_mode_dark">#ff455A64</color>
+    <color name="primary">#ff607D8B</color>
+    <color name="primary_dark">#ff455A64</color>
+
+    <color name="link_color_incoming">#ff607D8B</color>
+    <color name="link_color_outgoing">#ff607D8B</color>
+	
+	<color name="group_admin">#ff607D8B</color>
+    <color name="composing">#ff607D8B</color>   
+
+    <color name="search_text_highlight">#ff607D8B</color>
+    <color name="list_item_selected">#80607D8B</color>	
+</resources>

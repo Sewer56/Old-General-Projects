@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="platformActivityTheme" parent="@android:style/Theme.Material" >
+	    <item name="android:colorPrimary">#ff607D8B</item>
+        <item name="android:colorPrimaryDark">#ff455A64</item>
+	    <item name="android:colorAccent">#ff607D8B</item>
+    </style>		
+    <style name="platformSettingsTheme" parent="@android:style/Theme.Material" >
+	    <item name="android:colorPrimary">#ff607D8B</item>
+        <item name="android:colorPrimaryDark">#ff455A64</item>
+	    <item name="android:colorAccent">#ff607D8B</item>
+    </style>    
+	<style name="platformDialogTheme" parent="@android:style/Theme.Material.Dialog" />
+</resources>

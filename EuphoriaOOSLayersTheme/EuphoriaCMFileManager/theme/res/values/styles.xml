@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FileManager.Theme.Material.Light" parent="@android:style/Theme.Material">
+	    <item name="android:windowBackground">@color/default_background</item>
+        <item name="android:colorPrimaryDark">#ff455A64</item>
+        <item name="android:colorPrimary">#ff607D8B</item>
+	</style>
+    <style name="FileManager.Widget.ActionBar.White" parent="@android:style/Widget.Material.ActionBar">
+        <item name="android:textColorPrimary">@android:color/white</item>		
+	</style>
+    <style name="FileManager.Theme.Material.Light.NoActionBar" parent="@android:style/Theme.Material.NoActionBar">
+	    <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:actionMenuTextColor">@android:color/white</item>
+        <item name="android:colorControlHighlight">#ff455A64</item>
+        <item name="android:colorPrimary">#ff607D8B</item>
+        <item name="android:colorPrimaryDark">#ff455A64</item>
+        <item name="android:colorAccent">#ff607D8B</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+	</style>	
+</resources>
