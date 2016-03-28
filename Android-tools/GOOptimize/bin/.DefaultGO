@@ -1,0 +1,2 @@
+#### CHANGE BELOW LINE FOR DEFAULT GOPTIMIZE OPTIONS ####
+goptimize -m8 -p -j0 -a6 -d6 -l6 -r6 *.apk;

@@ -1,3 +1,2 @@
-<h1>Android Tools</h1>
-This is the repository containing the binaries of the tools I use in developing OxySlim and editing other ROMs, feel free to add new tools
-here, update existing tools or grab any tools of your choosing.
+This is simply a collection of popular tools that I tend to use, I currently keep all of their binaries up to date especially since some of these tools are dead in terms of development.
+I modify all the tools to always make sure that all of the external binaries and tools are up to date.

@@ -1,0 +1,607 @@
+-------------------------------------------------------------------------- 
+|20/03/2016 --  2:00:15.87| 
+-------------------------------------------------------------------------- 
+java version "1.8.0_74"
+Java(TM) SE Runtime Environment (build 1.8.0_74-b02)
+Java HotSpot(TM) 64-Bit Server VM (build 25.74-b02, mixed mode)
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_power_screenshot.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_screenshot_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_bootloader.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_bootloader_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_recovery.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_recovery_alpha').
+
+Exception in thread "main" brut.androlib.AndrolibException: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_4674591037358346128.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL1198598705910706885.tmp, -x, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:459)
+	at brut.androlib.Androlib.buildResources(Androlib.java:397)
+	at brut.androlib.Androlib.build(Androlib.java:285)
+	at brut.androlib.Androlib.build(Androlib.java:256)
+	at brut.apktool.Main.cmdBuild(Main.java:225)
+	at brut.apktool.Main.main(Main.java:84)
+Caused by: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_4674591037358346128.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL1198598705910706885.tmp, -x, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:419)
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:445)
+	... 5 more
+Caused by: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_4674591037358346128.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL1198598705910706885.tmp, -x, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.util.OS.exec(OS.java:90)
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:413)
+	... 6 more
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_power_screenshot.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_screenshot_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_bootloader.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_bootloader_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_recovery.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_recovery_alpha').
+
+Exception in thread "main" brut.androlib.AndrolibException: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_2363565437108854213.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL8251534540537105368.tmp, -x, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:459)
+	at brut.androlib.Androlib.buildResources(Androlib.java:397)
+	at brut.androlib.Androlib.build(Androlib.java:285)
+	at brut.androlib.Androlib.build(Androlib.java:256)
+	at brut.apktool.Main.cmdBuild(Main.java:225)
+	at brut.apktool.Main.main(Main.java:84)
+Caused by: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_2363565437108854213.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL8251534540537105368.tmp, -x, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:419)
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:445)
+	... 5 more
+Caused by: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_2363565437108854213.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL8251534540537105368.tmp, -x, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.util.OS.exec(OS.java:90)
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:413)
+	... 6 more
+-------------------------------------------------------------------------- 
+|20/03/2016 --  2:04:59.93| 
+-------------------------------------------------------------------------- 
+java version "1.8.0_74"
+Java(TM) SE Runtime Environment (build 1.8.0_74-b02)
+Java HotSpot(TM) 64-Bit Server VM (build 25.74-b02, mixed mode)
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_power_screenshot.xml:2: error: Error: String types not allowed (at 'src' with value 'ic_lock_screenshot_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_bootloader.xml:2: error: Error: String types not allowed (at 'src' with value 'ic_lock_reboot_bootloader_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_recovery.xml:2: error: Error: String types not allowed (at 'src' with value 'ic_lock_reboot_recovery_alpha').
+
+Exception in thread "main" brut.androlib.AndrolibException: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_211865499889734345.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL9195021432026783717.tmp, -x, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:459)
+	at brut.androlib.Androlib.buildResources(Androlib.java:397)
+	at brut.androlib.Androlib.build(Androlib.java:285)
+	at brut.androlib.Androlib.build(Androlib.java:256)
+	at brut.apktool.Main.cmdBuild(Main.java:225)
+	at brut.apktool.Main.main(Main.java:84)
+Caused by: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_211865499889734345.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL9195021432026783717.tmp, -x, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:419)
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:445)
+	... 5 more
+Caused by: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_211865499889734345.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL9195021432026783717.tmp, -x, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.util.OS.exec(OS.java:90)
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:413)
+	... 6 more
+^C-------------------------------------------------------------------------- 
+|20/03/2016 --  2:06:18.58| 
+-------------------------------------------------------------------------- 
+java version "1.8.0_74"
+Java(TM) SE Runtime Environment (build 1.8.0_74-b02)
+Java HotSpot(TM) 64-Bit Server VM (build 25.74-b02, mixed mode)
+W: Could not find sources
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_power_screenshot.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_screenshot_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_bootloader.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_bootloader_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_recovery.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_recovery_alpha').
+
+Exception in thread "main" brut.androlib.AndrolibException: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_817449813351346671.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL5988376748427419265.tmp, -x, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:459)
+	at brut.androlib.Androlib.buildResources(Androlib.java:397)
+	at brut.androlib.Androlib.build(Androlib.java:285)
+	at brut.androlib.Androlib.build(Androlib.java:256)
+	at brut.apktool.Main.cmdBuild(Main.java:225)
+	at brut.apktool.Main.main(Main.java:84)
+Caused by: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_817449813351346671.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL5988376748427419265.tmp, -x, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:419)
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:445)
+	... 5 more
+Caused by: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_817449813351346671.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL5988376748427419265.tmp, -x, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.util.OS.exec(OS.java:90)
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:413)
+	... 6 more
+-------------------------------------------------------------------------- 
+|20/03/2016 --  2:08:47.38| 
+-------------------------------------------------------------------------- 
+java version "1.8.0_74"
+Java(TM) SE Runtime Environment (build 1.8.0_74-b02)
+Java HotSpot(TM) 64-Bit Server VM (build 25.74-b02, mixed mode)
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_power_screenshot.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_screenshot_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_bootloader.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_bootloader_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_recovery.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_recovery_alpha').
+
+Exception in thread "main" brut.androlib.AndrolibException: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_7733703098815353638.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL470824673792126462.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:472)
+	at brut.androlib.Androlib.buildResources(Androlib.java:410)
+	at brut.androlib.Androlib.build(Androlib.java:298)
+	at brut.androlib.Androlib.build(Androlib.java:268)
+	at brut.apktool.Main.cmdBuild(Main.java:225)
+	at brut.apktool.Main.main(Main.java:84)
+Caused by: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_7733703098815353638.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL470824673792126462.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:425)
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:458)
+	... 5 more
+Caused by: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_7733703098815353638.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL470824673792126462.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.util.OS.exec(OS.java:89)
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:419)
+	... 6 more
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\values\public.xml:35: error: Public symbol drawable/ic_lock_reboot_bootloader_alpha declared here is not defined.
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\values\public.xml:36: error: Public symbol drawable/ic_lock_reboot_recovery_alpha declared here is not defined.
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\values\public.xml:37: error: Public symbol drawable/ic_lock_screenshot_alpha declared here is not defined.
+Exception in thread "main" brut.androlib.AndrolibException: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_5235552281250288695.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL5743080941165764737.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:472)
+	at brut.androlib.Androlib.buildResources(Androlib.java:410)
+	at brut.androlib.Androlib.build(Androlib.java:298)
+	at brut.androlib.Androlib.build(Androlib.java:268)
+	at brut.apktool.Main.cmdBuild(Main.java:225)
+	at brut.apktool.Main.main(Main.java:84)
+Caused by: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_5235552281250288695.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL5743080941165764737.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:425)
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:458)
+	... 5 more
+Caused by: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_5235552281250288695.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL5743080941165764737.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.util.OS.exec(OS.java:89)
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:419)
+	... 6 more
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_power_screenshot.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_screenshot_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_bootloader.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_bootloader_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_recovery.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_recovery_alpha').
+
+Exception in thread "main" brut.androlib.AndrolibException: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_7448553530391607254.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL7958268970945987820.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:472)
+	at brut.androlib.Androlib.buildResources(Androlib.java:410)
+	at brut.androlib.Androlib.build(Androlib.java:298)
+	at brut.androlib.Androlib.build(Androlib.java:268)
+	at brut.apktool.Main.cmdBuild(Main.java:225)
+	at brut.apktool.Main.main(Main.java:84)
+Caused by: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_7448553530391607254.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL7958268970945987820.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:425)
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:458)
+	... 5 more
+Caused by: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_7448553530391607254.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL7958268970945987820.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.util.OS.exec(OS.java:89)
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:419)
+	... 6 more
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_power_screenshot.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_screenshot_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_bootloader.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_bootloader_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_recovery.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_recovery_alpha').
+
+Exception in thread "main" brut.androlib.AndrolibException: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_2592886996893553425.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL2236837152199070992.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:472)
+	at brut.androlib.Androlib.buildResources(Androlib.java:410)
+	at brut.androlib.Androlib.build(Androlib.java:298)
+	at brut.androlib.Androlib.build(Androlib.java:268)
+	at brut.apktool.Main.cmdBuild(Main.java:225)
+	at brut.apktool.Main.main(Main.java:84)
+Caused by: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_2592886996893553425.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL2236837152199070992.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:425)
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:458)
+	... 5 more
+Caused by: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_2592886996893553425.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL2236837152199070992.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.util.OS.exec(OS.java:89)
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:419)
+	... 6 more
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_power_screenshot.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_screenshot_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_bootloader.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_bootloader_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_recovery.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_recovery_alpha').
+
+Exception in thread "main" brut.androlib.AndrolibException: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_8112411332925565032.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL4977901142996175030.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:472)
+	at brut.androlib.Androlib.buildResources(Androlib.java:410)
+	at brut.androlib.Androlib.build(Androlib.java:298)
+	at brut.androlib.Androlib.build(Androlib.java:268)
+	at brut.apktool.Main.cmdBuild(Main.java:225)
+	at brut.apktool.Main.main(Main.java:84)
+Caused by: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_8112411332925565032.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL4977901142996175030.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:425)
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:458)
+	... 5 more
+Caused by: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_8112411332925565032.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL4977901142996175030.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.util.OS.exec(OS.java:89)
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:419)
+	... 6 more
+-------------------------------------------------------------------------- 
+|20/03/2016 --  2:26:34.49| 
+-------------------------------------------------------------------------- 
+java version "1.8.0_74"
+Java(TM) SE Runtime Environment (build 1.8.0_74-b02)
+Java HotSpot(TM) 64-Bit Server VM (build 25.74-b02, mixed mode)
+-------------------------------------------------------------------------- 
+|20/03/2016 --  2:27:49.34| 
+-------------------------------------------------------------------------- 
+java version "1.8.0_74"
+Java(TM) SE Runtime Environment (build 1.8.0_74-b02)
+Java HotSpot(TM) 64-Bit Server VM (build 25.74-b02, mixed mode)
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_power_screenshot.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_screenshot_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_bootloader.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_bootloader_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_recovery.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_recovery_alpha').
+
+Exception in thread "main" brut.androlib.AndrolibException: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_9093572281415901611.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL6381684224277621794.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:472)
+	at brut.androlib.Androlib.buildResources(Androlib.java:410)
+	at brut.androlib.Androlib.build(Androlib.java:298)
+	at brut.androlib.Androlib.build(Androlib.java:268)
+	at brut.apktool.Main.cmdBuild(Main.java:225)
+	at brut.apktool.Main.main(Main.java:84)
+Caused by: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_9093572281415901611.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL6381684224277621794.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:425)
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:458)
+	... 5 more
+Caused by: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_9093572281415901611.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL6381684224277621794.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.util.OS.exec(OS.java:89)
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:419)
+	... 6 more
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_power_screenshot.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_screenshot_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_bootloader.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_bootloader_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res\drawable\ic_lock_reboot_recovery.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_recovery_alpha').
+
+Exception in thread "main" brut.androlib.AndrolibException: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_8157895508248447353.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL1472650196523459015.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:472)
+	at brut.androlib.Androlib.buildResources(Androlib.java:410)
+	at brut.androlib.Androlib.build(Androlib.java:298)
+	at brut.androlib.Androlib.build(Androlib.java:268)
+	at brut.apktool.Main.cmdBuild(Main.java:225)
+	at brut.apktool.Main.main(Main.java:84)
+Caused by: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_8157895508248447353.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL1472650196523459015.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:425)
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:458)
+	... 5 more
+Caused by: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_8157895508248447353.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL1472650196523459015.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\oxygen-framework-res.apk\AndroidManifest.xml]
+	at brut.util.OS.exec(OS.java:89)
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:419)
+	... 6 more
+-------------------------------------------------------------------------- 
+|20/03/2016 --  2:37:12.62| 
+-------------------------------------------------------------------------- 
+java version "1.8.0_74"
+Java(TM) SE Runtime Environment (build 1.8.0_74-b02)
+Java HotSpot(TM) 64-Bit Server VM (build 25.74-b02, mixed mode)
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+D:\Android\Tools\APKMultiTool\projects\OxygenFramework.apk\res\drawable\ic_lock_power_screenshot.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_screenshot_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\OxygenFramework.apk\res\drawable\ic_lock_reboot_bootloader.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_bootloader_alpha').
+
+D:\Android\Tools\APKMultiTool\projects\OxygenFramework.apk\res\drawable\ic_lock_reboot_recovery.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '@drawable/ic_lock_reboot_recovery_alpha').
+
+Exception in thread "main" brut.androlib.AndrolibException: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_3230739668902311282.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL234609002937317167.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\OxygenFramework.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\OxygenFramework.apk\AndroidManifest.xml]
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:472)
+	at brut.androlib.Androlib.buildResources(Androlib.java:410)
+	at brut.androlib.Androlib.build(Androlib.java:298)
+	at brut.androlib.Androlib.build(Androlib.java:268)
+	at brut.apktool.Main.cmdBuild(Main.java:225)
+	at brut.apktool.Main.main(Main.java:84)
+Caused by: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_3230739668902311282.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL234609002937317167.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\OxygenFramework.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\OxygenFramework.apk\AndroidManifest.xml]
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:425)
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:458)
+	... 5 more
+Caused by: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_3230739668902311282.tmp, p, --forced-package-id, 4, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 110, --version-name, 1.1.0, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL234609002937317167.tmp, -x, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -S, D:\Android\Tools\APKMultiTool\projects\OxygenFramework.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\OxygenFramework.apk\AndroidManifest.xml]
+	at brut.util.OS.exec(OS.java:89)
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:419)
+	... 6 more
+-------------------------------------------------------------------------- 
+|20/03/2016 -- 23:17:53.73| 
+-------------------------------------------------------------------------- 
+java version "1.8.0_74"
+Java(TM) SE Runtime Environment (build 1.8.0_74-b02)
+Java HotSpot(TM) 64-Bit Server VM (build 25.74-b02, mixed mode)
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+warning: string 'allow_button' has no default translation.
+warning: string 'deny_button' has no default translation.
+warning: string 'other_permissions' has no default translation.
+warning: string 'permission_remember_choice' has no default translation.
+warning: string 'permission_title' has no default translation.
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+warning: string 'allow_button' has no default translation.
+warning: string 'deny_button' has no default translation.
+warning: string 'other_permissions' has no default translation.
+warning: string 'permission_remember_choice' has no default translation.
+warning: string 'permission_title' has no default translation.
+-------------------------------------------------------------------------- 
+|20/03/2016 -- 23:40:32.14| 
+-------------------------------------------------------------------------- 
+java version "1.8.0_74"
+Java(TM) SE Runtime Environment (build 1.8.0_74-b02)
+Java HotSpot(TM) 64-Bit Server VM (build 25.74-b02, mixed mode)
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+warning: string 'allow_button' has no default translation.
+warning: string 'deny_button' has no default translation.
+warning: string 'other_permissions' has no default translation.
+warning: string 'permission_remember_choice' has no default translation.
+warning: string 'permission_title' has no default translation.
+-------------------------------------------------------------------------- 
+|20/03/2016 -- 23:52:06.95| 
+-------------------------------------------------------------------------- 
+java version "1.8.0_74"
+Java(TM) SE Runtime Environment (build 1.8.0_74-b02)
+Java HotSpot(TM) 64-Bit Server VM (build 25.74-b02, mixed mode)
+-------------------------------------------------------------------------- 
+|20/03/2016 -- 23:52:40.46| 
+-------------------------------------------------------------------------- 
+java version "1.8.0_74"
+Java(TM) SE Runtime Environment (build 1.8.0_74-b02)
+Java HotSpot(TM) 64-Bit Server VM (build 25.74-b02, mixed mode)
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+warning: string 'allow_button' has no default translation.
+warning: string 'deny_button' has no default translation.
+warning: string 'other_permissions' has no default translation.
+warning: string 'permission_remember_choice' has no default translation.
+warning: string 'permission_title' has no default translation.
+The system cannot find the file specified.
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+warning: string 'allow_button' has no default translation.
+warning: string 'deny_button' has no default translation.
+warning: string 'other_permissions' has no default translation.
+warning: string 'permission_remember_choice' has no default translation.
+warning: string 'permission_title' has no default translation.
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+warning: string 'allow_button' has no default translation.
+warning: string 'deny_button' has no default translation.
+warning: string 'other_permissions' has no default translation.
+warning: string 'permission_remember_choice' has no default translation.
+warning: string 'permission_title' has no default translation.
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\layout\activity_chooser_view_list_item.xml:2: error: Error: No resource found that matches the given name (at 'layout_height' with value '?^attr-private/dropdownListPreferredItemHeight').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\layout\expanded_menu_layout.xml:2: error: Error: No resource found that matches the given name (at 'layout_width' with value '?^attr-private/panelMenuListWidth').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\layout\floating_popup_close_overflow_button.xml:2: error: Error: No resource found that matches the given name (at 'background' with value '?^attr-private/floatingToolbarItemBackgroundBorderlessDrawable').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\layout\floating_popup_close_overflow_button.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '?^attr-private/floatingToolbarCloseDrawable').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\layout\floating_popup_container.xml:2: error: Error: No resource found that matches the given name (at 'background' with value '?^attr-private/floatingToolbarPopupBackgroundDrawable').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\layout\floating_popup_menu_button.xml:2: error: Error: No resource found that matches the given name (at 'textColor' with value '?^attr-private/floatingToolbarForegroundColor').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\layout\floating_popup_menu_button.xml:2: error: Error: No resource found that matches the given name (at 'background' with value '?^attr-private/floatingToolbarItemBackgroundDrawable').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\layout\floating_popup_menu_image_button.xml:4: error: Error: No resource found that matches the given name (at 'background' with value '?^attr-private/floatingToolbarItemBackgroundDrawable').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\layout\floating_popup_open_overflow_button.xml:2: error: Error: No resource found that matches the given name (at 'background' with value '?^attr-private/floatingToolbarItemBackgroundBorderlessDrawable').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\layout\floating_popup_open_overflow_button.xml:2: error: Error: No resource found that matches the given name (at 'src' with value '?^attr-private/floatingToolbarOpenDrawable').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\layout\floating_popup_overflow_list_item.xml:2: error: Error: No resource found that matches the given name (at 'textColor' with value '?^attr-private/floatingToolbarForegroundColor').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\layout\popup_menu_item_layout.xml:2: error: Error: No resource found that matches the given name (at 'layout_height' with value '?^attr-private/dropdownListPreferredItemHeight').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\layout\preference_header_item_material.xml:6: error: Error: No resource found that matches the given name (at 'textColor' with value '?^attr-private/textColorPrimaryActivated').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\layout\preference_header_item_material.xml:7: error: Error: No resource found that matches the given name (at 'textColor' with value '?^attr-private/textColorSecondaryActivated').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\layout\search_dropdown_item_icons_2line.xml:2: error: Error: No resource found that matches the given name (at 'layout_height' with value '?^attr-private/searchResultListItemHeight').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\layout\simple_spinner_dropdown_item.xml:2: error: Error: No resource found that matches the given name (at 'layout_height' with value '?^attr-private/dropdownListPreferredItemHeight').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\layout\transient_notification.xml:2: error: Error: No resource found that matches the given name (at 'background' with value '?^attr-private/toastFrameBackground').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\layout\webview_select_singlechoice.xml:2: error: Error: No resource found that matches the given name (at 'layout_height' with value '?^attr-private/dropdownListPreferredItemHeight').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\drawable\switch_thumb_material_anim.xml:5: error: Error: No resource found that matches the given name (at 'tint' with value '?^attr-private/colorSwitchThumbNormal').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\drawable\switch_thumb_material_anim.xml:11: error: Error: No resource found that matches the given name (at 'tint' with value '?^attr-private/colorSwitchThumbNormal').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\drawable\switch_thumb_material_anim.xml:16: error: Error: No resource found that matches the given name (at 'tint' with value '?^attr-private/colorSwitchThumbNormal').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\drawable\switch_thumb_material_anim.xml:19: error: Error: No resource found that matches the given name (at 'tint' with value '?^attr-private/colorSwitchThumbNormal').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\drawable\switch_thumb_material_anim.xml:22: error: Error: No resource found that matches the given name (at 'tint' with value '?^attr-private/colorSwitchThumbNormal').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\drawable\switch_thumb_material_anim.xml:25: error: Error: No resource found that matches the given name (at 'tint' with value '?^attr-private/colorSwitchThumbNormal').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\drawable\switch_thumb_material_anim.xml:28: error: Error: No resource found that matches the given name (at 'tint' with value '?^attr-private/colorSwitchThumbNormal').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\drawable\switch_thumb_material_anim.xml:31: error: Error: No resource found that matches the given name (at 'tint' with value '?^attr-private/colorSwitchThumbNormal').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\drawable\switch_thumb_material_anim.xml:74: error: Error: No resource found that matches the given name (at 'tint' with value '?^attr-private/colorSwitchThumbNormal').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\drawable\switch_thumb_material_anim.xml:77: error: Error: No resource found that matches the given name (at 'tint' with value '?^attr-private/colorSwitchThumbNormal').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\drawable\switch_thumb_material_anim.xml:80: error: Error: No resource found that matches the given name (at 'tint' with value '?^attr-private/colorSwitchThumbNormal').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\drawable\switch_thumb_material_anim.xml:83: error: Error: No resource found that matches the given name (at 'tint' with value '?^attr-private/colorSwitchThumbNormal').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\drawable\switch_thumb_material_anim.xml:86: error: Error: No resource found that matches the given name (at 'tint' with value '?^attr-private/colorSwitchThumbNormal').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\drawable\switch_thumb_material_anim.xml:89: error: Error: No resource found that matches the given name (at 'tint' with value '?^attr-private/colorSwitchThumbNormal').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\menu\webview_find.xml:4: error: Error: No resource found that matches the given name (at 'icon' with value '?^attr-private/findOnPagePreviousDrawable').
+
+D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res\menu\webview_find.xml:5: error: Error: No resource found that matches the given name (at 'icon' with value '?^attr-private/findOnPageNextDrawable').
+
+Exception in thread "main" brut.androlib.AndrolibException: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_7696576202416220352.tmp, p, --forced-package-id, 1, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 23, --version-name, 6.0.1, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL965133557984307423.tmp, -x, -0, arsc, -0, arsc, -S, D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:472)
+	at brut.androlib.Androlib.buildResources(Androlib.java:410)
+	at brut.androlib.Androlib.build(Androlib.java:298)
+	at brut.androlib.Androlib.build(Androlib.java:268)
+	at brut.apktool.Main.cmdBuild(Main.java:225)
+	at brut.apktool.Main.main(Main.java:84)
+Caused by: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_7696576202416220352.tmp, p, --forced-package-id, 1, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 23, --version-name, 6.0.1, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL965133557984307423.tmp, -x, -0, arsc, -0, arsc, -S, D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\framework-res.apk\AndroidManifest.xml]
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:425)
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:458)
+	... 5 more
+Caused by: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_7696576202416220352.tmp, p, --forced-package-id, 1, --min-sdk-version, 23, --target-sdk-version, 23, --version-code, 23, --version-name, 6.0.1, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL965133557984307423.tmp, -x, -0, arsc, -0, arsc, -S, D:\Android\Tools\APKMultiTool\projects\framework-res.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\framework-res.apk\AndroidManifest.xml]
+	at brut.util.OS.exec(OS.java:89)
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:419)
+	... 6 more
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+warning: string 'allow_button' has no default translation.
+warning: string 'deny_button' has no default translation.
+warning: string 'other_permissions' has no default translation.
+warning: string 'permission_remember_choice' has no default translation.
+warning: string 'permission_title' has no default translation.
+-------------------------------------------------------------------------- 
+|21/03/2016 --  0:04:41.50| 
+-------------------------------------------------------------------------- 
+java version "1.8.0_74"
+Java(TM) SE Runtime Environment (build 1.8.0_74-b02)
+Java HotSpot(TM) 64-Bit Server VM (build 25.74-b02, mixed mode)
+A subdirectory or file modified-system-apk-files-here already exists.
+A subdirectory or file modified-system-apk-files-here already exists.
+-------------------------------------------------------------------------- 
+|21/03/2016 --  0:31:09.22| 
+-------------------------------------------------------------------------- 
+java version "1.8.0_74"
+Java(TM) SE Runtime Environment (build 1.8.0_74-b02)
+Java HotSpot(TM) 64-Bit Server VM (build 25.74-b02, mixed mode)
+-------------------------------------------------------------------------- 
+|23/03/2016 -- 20:18:00.14| 
+-------------------------------------------------------------------------- 
+java version "1.8.0_74"
+Java(TM) SE Runtime Environment (build 1.8.0_74-b02)
+Java HotSpot(TM) 64-Bit Server VM (build 25.74-b02, mixed mode)
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+W: Could not decode attr value, using undecoded value instead: ns=android, name=summary, value=0x010406c7
+W: Could not decode attr value, using undecoded value instead: ns=android, name=textColor, value=0x01060141
+W: Could not decode attr value, using undecoded value instead: ns=android, name=textColor, value=0x01060141
+Exception in thread "main" brut.androlib.err.UndefinedResObject: resource spec: 0x010406c7
+	at brut.androlib.res.data.ResPackage.getResSpec(ResPackage.java:59)
+	at brut.androlib.res.data.ResTable.getResSpec(ResTable.java:65)
+	at brut.androlib.res.data.ResTable.getResSpec(ResTable.java:61)
+	at brut.androlib.res.data.value.ResReferenceValue.getReferent(ResReferenceValue.java:57)
+	at brut.androlib.res.data.value.ResReferenceValue.encodeAsResXml(ResReferenceValue.java:47)
+	at brut.androlib.res.data.value.ResScalarValue.encodeAsResXmlAttr(ResScalarValue.java:46)
+	at brut.androlib.res.decoder.ResAttrDecoder.decode(ResAttrDecoder.java:47)
+	at brut.androlib.res.decoder.AXmlResourceParser.getAttributeValue(AXmlResourceParser.java:369)
+	at org.xmlpull.v1.wrapper.classic.XmlPullParserDelegate.getAttributeValue(XmlPullParserDelegate.java:69)
+	at org.xmlpull.v1.wrapper.classic.StaticXmlSerializerWrapper.writeStartTag(StaticXmlSerializerWrapper.java:267)
+	at org.xmlpull.v1.wrapper.classic.StaticXmlSerializerWrapper.event(StaticXmlSerializerWrapper.java:211)
+	at brut.androlib.res.decoder.XmlPullStreamDecoder$1.event(XmlPullStreamDecoder.java:83)
+	at brut.androlib.res.decoder.XmlPullStreamDecoder.decode(XmlPullStreamDecoder.java:141)
+	at brut.androlib.res.decoder.ResStreamDecoderContainer.decode(ResStreamDecoderContainer.java:33)
+	at brut.androlib.res.decoder.ResFileDecoder.decode(ResFileDecoder.java:120)
+	at brut.androlib.res.decoder.ResFileDecoder.decode(ResFileDecoder.java:105)
+	at brut.androlib.res.AndrolibResources.decode(AndrolibResources.java:247)
+	at brut.androlib.Androlib.decodeResourcesFull(Androlib.java:136)
+	at brut.androlib.ApkDecoder.decode(ApkDecoder.java:102)
+	at brut.apktool.Main.cmdDecode(Main.java:165)
+	at brut.apktool.Main.main(Main.java:81)
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+D:\Android\Tools\APKMultiTool\projects\Settings.apk\res\xml\dashboard_categories.xml:53: error: Error: No resource found that matches the given name (at 'icon' with value '@drawable/ic_settings_supersu').
+
+Exception in thread "main" brut.androlib.AndrolibException: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_5059469910617028673.tmp, p, --forced-package-id, 127, --min-sdk-version, 21, --target-sdk-version, 23, --version-code, 23, --version-name, 6.0.1, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL5164131513615208233.tmp, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -I, C:\Users\sewer56lol\apktool\framework\4.apk, -S, D:\Android\Tools\APKMultiTool\projects\Settings.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\Settings.apk\AndroidManifest.xml]
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:472)
+	at brut.androlib.Androlib.buildResources(Androlib.java:410)
+	at brut.androlib.Androlib.build(Androlib.java:298)
+	at brut.androlib.Androlib.build(Androlib.java:268)
+	at brut.apktool.Main.cmdBuild(Main.java:225)
+	at brut.apktool.Main.main(Main.java:84)
+Caused by: brut.androlib.AndrolibException: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_5059469910617028673.tmp, p, --forced-package-id, 127, --min-sdk-version, 21, --target-sdk-version, 23, --version-code, 23, --version-name, 6.0.1, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL5164131513615208233.tmp, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -I, C:\Users\sewer56lol\apktool\framework\4.apk, -S, D:\Android\Tools\APKMultiTool\projects\Settings.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\Settings.apk\AndroidManifest.xml]
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:425)
+	at brut.androlib.Androlib.buildResourcesFull(Androlib.java:458)
+	... 5 more
+Caused by: brut.common.BrutException: could not exec command: [C:\Users\SEWER5~1\AppData\Local\Temp\brut_util_Jar_5059469910617028673.tmp, p, --forced-package-id, 127, --min-sdk-version, 21, --target-sdk-version, 23, --version-code, 23, --version-name, 6.0.1, -F, C:\Users\SEWER5~1\AppData\Local\Temp\APKTOOL5164131513615208233.tmp, -0, arsc, -0, arsc, -I, C:\Users\sewer56lol\apktool\framework\1.apk, -I, C:\Users\sewer56lol\apktool\framework\4.apk, -S, D:\Android\Tools\APKMultiTool\projects\Settings.apk\res, -M, D:\Android\Tools\APKMultiTool\projects\Settings.apk\AndroidManifest.xml]
+	at brut.util.OS.exec(OS.java:89)
+	at brut.androlib.res.AndrolibResources.aaptPackage(AndrolibResources.java:419)
+	... 6 more
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+A subdirectory or file modified-system-apk-files-here already exists.
+warning: string 'auth_client_needs_enabling_title' has no default translation.
+warning: string 'auth_client_needs_installation_title' has no default translation.
+warning: string 'auth_client_needs_update_title' has no default translation.
+warning: string 'auth_client_play_services_err_notification_msg' has no default translation.
+warning: string 'auth_client_requested_by_msg' has no default translation.
+warning: string 'auth_client_using_bad_version_title' has no default translation.
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+A subdirectory or file modified-system-apk-files-here already exists.
+W: Could not find sources
+A subdirectory or file modified-system-apk-files-here already exists.
+warning: string 'auth_client_needs_enabling_title' has no default translation.
+warning: string 'auth_client_needs_installation_title' has no default translation.
+warning: string 'auth_client_needs_update_title' has no default translation.
+warning: string 'auth_client_play_services_err_notification_msg' has no default translation.
+warning: string 'auth_client_requested_by_msg' has no default translation.
+warning: string 'auth_client_using_bad_version_title' has no default translation.
+A subdirectory or file modified-system-apk-files-here already exists.
+A subdirectory or file modified-system-apk-files-here already exists.
+A subdirectory or file modified-system-apk-files-here already exists.
+warning: string 'auth_client_needs_enabling_title' has no default translation.
+warning: string 'auth_client_needs_installation_title' has no default translation.
+warning: string 'auth_client_needs_update_title' has no default translation.
+warning: string 'auth_client_play_services_err_notification_msg' has no default translation.
+warning: string 'auth_client_requested_by_msg' has no default translation.
+warning: string 'auth_client_using_bad_version_title' has no default translation.
+The system cannot find the file specified.
+The system cannot find the file specified.
+A subdirectory or file modified-system-apk-files-here already exists.
+The system cannot find the file specified.
+The system cannot find the file specified.
+A subdirectory or file modified-system-apk-files-here already exists.
+warning: string 'auth_client_needs_enabling_title' has no default translation.
+warning: string 'auth_client_needs_installation_title' has no default translation.
+warning: string 'auth_client_needs_update_title' has no default translation.
+warning: string 'auth_client_play_services_err_notification_msg' has no default translation.
+warning: string 'auth_client_requested_by_msg' has no default translation.
+warning: string 'auth_client_using_bad_version_title' has no default translation.
+The system cannot find the file specified.
+The system cannot find the file specified.
+Input file (D:\Android\Tools\APKMultiTool\place-apk-here-for-modding/OTA-Updater-2.0.5.apk) was not found or was not readable.
+A subdirectory or file modified-system-apk-files-here already exists.
+warning: string 'auth_client_needs_enabling_title' has no default translation.
+warning: string 'auth_client_needs_installation_title' has no default translation.
+warning: string 'auth_client_needs_update_title' has no default translation.
+warning: string 'auth_client_play_services_err_notification_msg' has no default translation.
+warning: string 'auth_client_requested_by_msg' has no default translation.
+warning: string 'auth_client_using_bad_version_title' has no default translation.
+warning: string 'auth_client_needs_enabling_title' has no default translation.
+warning: string 'auth_client_needs_installation_title' has no default translation.
+warning: string 'auth_client_needs_update_title' has no default translation.
+warning: string 'auth_client_play_services_err_notification_msg' has no default translation.
+warning: string 'auth_client_requested_by_msg' has no default translation.
+warning: string 'auth_client_using_bad_version_title' has no default translation.
+A subdirectory or file modified-system-apk-files-here already exists.
+-------------------------------------------------------------------------- 
+|23/03/2016 -- 23:13:59.42| 
+-------------------------------------------------------------------------- 
+java version "1.8.0_74"
+Java(TM) SE Runtime Environment (build 1.8.0_74-b02)
+Java HotSpot(TM) 64-Bit Server VM (build 25.74-b02, mixed mode)
