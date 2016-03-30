@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ActionBarDark" parent="@android:style/Widget.Material.ActionBar.Solid">
+        <item name="android:background">#ff607d8b</item>
+        <item name="android:contentInsetStart">16.0dip</item>
+    </style>
+    <style name="Theme.AlertDialogDark" parent="@android:style/Theme.Material.Dialog.Alert">
+        <item name="android:colorBackground">#ff232323</item>
+        <item name="android:actionBarStyle">@style/Theme.ActionBarDark</item>
+        <item name="android:colorPrimary">#ff263238</item>
+        <item name="android:colorPrimaryDark">#ff21272b</item>
+        <item name="android:colorAccent">@*android:color/material_deep_teal_500</item>
+    </style>
+</resources>

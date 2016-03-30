@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="holo_blue_light">#fff44336</color>
+    <color name="holo_blue_dark">#fff44336</color>
+    <color name="skin_accent_color_1">#fff44336</color>
+    <color name="skin_accent_color_2">#fff44336</color>
+    <color name="holo_blue_bright">#fff44336</color>
+    <color name="notification_icon_bg_color">#fff44336</color>
+
+    <color name="notification_progress_background_color">#fff44336</color>
+    <color name="system_notification_accent_color">#fff44336</color>
+    <color name="user_icon_1">#fff44336</color>
+    <color name="user_icon_2">#fff44336</color>
+    <color name="user_icon_3">#fff44336</color>
+    <color name="user_icon_4">#fff44336</color>
+    <color name="user_icon_5">#fff44336</color>
+    <color name="user_icon_6">#fff44336</color>
+    <color name="user_icon_7">#fff44336</color>
+    <color name="user_icon_8">#fff44336</color>
+
+    <color name="link_text_holo_dark">#fff44336</color>
+    <color name="link_text_holo_light">#fff44336</color>
+
+    <color name="primary_material_dark">#fff44336</color>
+    <color name="primary_material_light">#ffffffff</color>
+    <color name="primary_dark_material_dark">#ffd32f2f</color>
+    <color name="primary_dark_material_light">#ffd32f2f</color>
+
+    <color name="secondary_text_default_material_light">#fff44336</color>
+    <color name="material_deep_teal_200">#fff44336</color>
+    <color name="material_deep_teal_500">#fff44336</color>
+
+    <color name="colorpicker_ripple_effect_color">#80f44336</color>
+
+    <color name="datepicker_default_pressed_text_color_material_light">#fff44336</color>
+    <color name="datepicker_default_pressed_text_color_material_dark">#fff44336</color>
+
+</resources>

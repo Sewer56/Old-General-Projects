@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ActionBarDark" parent="@android:style/Widget.Material.ActionBar.Solid">
+        <item name="android:background">#ffffc107</item>
+        <item name="android:contentInsetStart">16.0dip</item>
+    </style>
+</resources>
