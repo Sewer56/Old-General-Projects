@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "com.sewer56lol.EuphoricOxySlim"
+        applicationId "com.sewer56lol.EuphoricOxySlimExtra"
         minSdkVersion 21
         targetSdkVersion 22
         versionCode 1
