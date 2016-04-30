@@ -17,7 +17,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.cyanogenmod.theme.template">
 
-    <uses-feature android:required="true" android:name="org.cyanogenmod.theme" />
+    <uses-feature android:required="true" android:name="xos.theme.bluemerald" />
 
     <uses-sdk android:minSdkVersion="23" android:targetSdkVersion="23" />
 
