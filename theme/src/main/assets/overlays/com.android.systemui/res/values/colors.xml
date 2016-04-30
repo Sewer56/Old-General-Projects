@@ -14,7 +14,6 @@
     <!--- Accent color -->
     <color name="system_accent_color">@*common:color/accent</color>
 
-
     <color name="qs_text">#feffffff</color>
     <color name="qs_tile_divider">#08fefefe</color>
     <color name="qs_tile_text">#f0ffffff</color>
