@@ -6,10 +6,10 @@
 
 
     <!-- Quick settings background -->
-    <color name="system_primary_color">#ff14191f</color>
+    <color name="system_primary_color">@*common:color/darknight_bg</color>
 
     <!-- Quick settings header background -->
-    <color name="system_secondary_color">@*common:color/darknight_bg</color>
+    <color name="system_secondary_color">@*common:color/darknight_bg_dark</color>
 
     <!--- Accent color -->
     <color name="system_accent_color">@*common:color/accent</color>
