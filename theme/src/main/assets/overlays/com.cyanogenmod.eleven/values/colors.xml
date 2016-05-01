@@ -8,9 +8,9 @@
     <color name="header_action_bar_color">@*common:color/blue_600</color>
 
     <color name="accent">@*common:color/blue_700</color>
-    <color name="background_color">#ff212121</color>
+    <color name="background_color">@*common:color/darknight_bg</color>
     <color name="default_text_color">@*common:color/_primary_text_white</color>
-    <color name="black">@*common:color/dark_bg_accent</color>
+    <color name="black">@*common:color/darknight_bg</color>
     <color name="white">#ffe5e5e5</color>
 
     <color name="page_header_background">#ffe5e5e5</color>
