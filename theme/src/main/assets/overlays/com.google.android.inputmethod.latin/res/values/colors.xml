@@ -29,12 +29,12 @@
     <color name="suggested_word_color_lxx_dark">#b4fefefe</color>
     <color name="gesture_trail_color_lxx_dark">#1E88E5</color>
     <color name="sliding_key_input_preview_color_lxx_dark">#1976D2</color>
-    <color name="key_background_lxx_dark">#121212</color>
+    <color name="key_background_lxx_dark">#101010</color>
     <color name="key_background_pressed_lxx_dark">#20fdfdfd</color>
     <color name="suggested_word_background_selected_lxx_dark">#20fdfdfd</color>
     <color name="gesture_floating_preview_color_lxx_dark">#e621272b</color>
-    <color name="emoji_tab_page_indicator_background_lxx_dark">#121212</color>
+    <color name="emoji_tab_page_indicator_background_lxx_dark">#101010</color>
 
     <!-- Accent color for the notification. We need to match this to the OS build -->
-    <color name="notification_accent_color">#121212</color>
+    <color name="notification_accent_color">#101010</color>
 </resources>
