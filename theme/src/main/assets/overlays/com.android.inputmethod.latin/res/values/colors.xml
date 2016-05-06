@@ -8,12 +8,12 @@
     <color name="highlight_color_lxx_light">#00b4e7</color>
     <color name="auto_correct_color_lxx_light">@color/auto_correct_color_lxx_dark</color>
     <color name="typed_word_color_lxx_light">@color/typed_word_color_lxx_dark</color>
-    <color name="suggested_word_color_lxx_light">@color/suggested_word_background_selected_lxx_dark</color>
+    <color name="suggested_word_color_lxx_light">#aaffffff</color>
     <color name="gesture_trail_color_lxx_light">#a000b4e7</color>
     <color name="sliding_key_input_preview_color_lxx_light">#B300b4e7</color>
     <color name="key_background_lxx_light">#0f1920</color>
     <color name="key_background_pressed_lxx_light">@color/key_background_pressed_lxx_dark</color>
-    <color name="suggested_word_background_selected_lxx_light">@color/suggested_word_background_selected_lxx_dark</color>
+    <color name="suggested_word_background_selected_lxx_light">#daffffff</color>
     <color name="gesture_floating_preview_color_lxx_light">#E600b4e7</color>
     <color name="emoji_tab_page_indicator_background_lxx_light">#0f1920</color>
 
