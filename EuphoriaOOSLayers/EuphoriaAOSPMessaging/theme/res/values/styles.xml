@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabView" parent="@android:style/Widget.Material.ActionBar.TabView" />
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText" parent="@android:style/Widget.Material.ActionBar.TabText" />
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="@android:style/Widget.Material.ActionBar.TabText" />
+    <style name="Base.Widget.AppCompat.Light.PopupMenu" parent="@android:style/Widget.Material.PopupMenu" />
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:windowBackground">@color/background_material_dark</item>
+        <item name="android:statusBarColor">#ff455A64</item>
+        <item name="android:navigationBarColor">@color/solid_black</item>
+        <item name="colorPrimary">#ff607D8B</item>
+        <item name="colorPrimaryDark">#ff455A64</item>
+        <item name="colorAccent">#ff607D8B</item>
+	</style>
+    <style name="RecipientEditTextViewBase" parent="@android:attr/autoCompleteTextViewStyle">
+        <item name="android:popupBackground">@color/background_floating_material_dark</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.Solid" parent="@style/Base.Widget.AppCompat.ActionBar">
+        <item name="background">@color/primary_material_dark</item>
+        <item name="backgroundStacked">@color/primary_material_dark</item>
+        <item name="backgroundSplit">@color/primary_material_dark</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.Solid" parent="@style/Base.Widget.AppCompat.Light.ActionBar">
+        <item name="background">@color/primary_material_dark</item>
+        <item name="backgroundStacked">@color/primary_material_dark</item>
+        <item name="backgroundSplit">@color/primary_material_dark</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar" parent="@style/Base.Widget.AppCompat.ActionBar" />
+
+    <style name="Base.Widget.AppCompat.ActionBar" parent="" />
+
+    <style name="BugleTheme.ConversationActivity" parent="@style/BugleTheme.ConversationActivityBase">
+        <item name="android:colorEdgeEffect">@color/conversation_edge_effect</item>
+    </style>
+
+    <style name="BugleTheme.ConversationActivityBase" parent="@style/BugleTheme">
+        <item name="android:windowBackground">@color/conversation_background</item>
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+
+    <style name="BugleTheme.ConversationListActivity" parent="@style/BugleTheme">
+        <item name="android:windowBackground">@color/background_material_dark</item>
+    </style>
+
+    <style name="appTitleStyle">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="appVersionStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="appCopyrightStyle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="BugleBaseTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar" />
+    <style name="Theme.AppCompat.Light.DarkActionBar" parent="@style/Base.Theme.AppCompat.Light.DarkActionBar" />
+    <style name="Base.Theme.AppCompat.Light.DarkActionBar" parent="@style/Base.Theme.AppCompat.Light" />
+    <style name="Base.Theme.AppCompat.Light" parent="@style/Base.V7.Theme.AppCompat.Light" />
+    <style name="Base.V7.Theme.AppCompat.Light" parent="@style/Platform.AppCompat.Light" />
+    <style name="BugleTheme" parent="@style/BugleBaseTheme">
+        <item name="android:windowBackground">@color/background_material_dark</item>
+        <item name="android:textColorHighlight">@color/text_highlight_color</item>
+        <item name="colorPrimary">#ff607D8B</item>
+        <item name="colorPrimaryDark">#ff455A64</item>
+        <item name="colorAccent">#ff607D8B</item>
+        <item name="android:statusBarColor">#ff455A64</item>
+        <item name="android:navigationBarColor">@color/solid_black</item>
+    </style>
+    <style name="ColorAccentBlueOverrideStyle">
+        <item name="colorAccent">#ff607D8B</item>
+    </style>
+</resources>

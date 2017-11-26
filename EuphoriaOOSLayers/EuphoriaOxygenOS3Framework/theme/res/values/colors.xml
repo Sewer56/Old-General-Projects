@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="holo_blue_light">#ff607d8b</color>
+    <color name="holo_blue_dark">#ff607d8b</color>
+    <color name="skin_accent_color_1">#ff607d8b</color>
+    <color name="skin_accent_color_2">#ff607d8b</color>
+    <color name="holo_blue_bright">#ff607d8b</color>
+    <color name="notification_icon_bg_color">#ff607d8b</color>
+    <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_media_primary_color">#ffffffff</color>
+    <color name="notification_media_secondary_color">#ffffffff</color>
+    <color name="notification_progress_background_color">#ff607d8b</color>
+    <color name="system_notification_accent_color">#ff607d8b</color>
+    <color name="battery_saver_mode_color">#ffff5722</color>
+    <color name="user_icon_1">#ff607d8b</color>
+    <color name="user_icon_2">#ff607d8b</color>
+    <color name="user_icon_3">#ff607d8b</color>
+    <color name="user_icon_4">#ff607d8b</color>
+    <color name="user_icon_5">#ff607d8b</color>
+    <color name="user_icon_6">#ff607d8b</color>
+    <color name="user_icon_7">#ff607d8b</color>
+    <color name="user_icon_8">#ff607d8b</color>
+    <color name="background_holo_dark">#ff232323</color>
+    <color name="dim_foreground_disabled_holo_dark">#80323232</color>
+    <color name="dim_foreground_inverse_holo_dark">#ffbebebe</color>
+    <color name="dim_foreground_inverse_disabled_holo_dark">#80bebebe</color>
+    <color name="link_text_holo_dark">#ff607d8b</color>
+    <color name="link_text_holo_light">#ff607d8b</color>
+    <color name="background_material_dark">#ff232323</color>
+    <color name="background_material_light">#ffffffff</color>
+    <color name="background_floating_material_dark">#ff232323</color>
+
+    <color name="primary_material_dark">#ff607d8b</color>
+    <color name="primary_material_light">#ffffffff</color>
+    <color name="primary_dark_material_dark">#ff455a64</color>
+    <color name="primary_dark_material_light">#ff455a64</color>
+
+    <color name="skin_accent_color_3">#FFE91E63</color>
+    <color name="skin_accent_color_4">#ffffc107</color>
+    <color name="skin_accent_color_5">#ff8bc34a</color>
+    <color name="skin_accent_color_6">#fff44336</color>
+    <color name="skin_accent_color_7">#ff9C27B0</color>
+    <color name="skin_accent_color_8">#ffFF9800</color>
+    <color name="skin_accent_color_9">#ff03A9F4</color>
+
+    <color name="primary_dark_material_light_light_status_bar">#ffb0bec5</color>
+
+    <color name="skin_color_background">#ff232323</color>
+    <color name="skin_color_dialog_background">#ff232323</color>
+    <color name="colorpicker_ripple_effect_color">#80607d8b</color>
+
+    <color name="button_material_dark">#ff333333</color>
+    <color name="secondary_text_default_material_dark">#ffffffff</color>
+    <color name="secondary_text_default_material_light">#ff607D8B</color>
+    <color name="material_deep_teal_200">#ff607d8b</color>
+    <color name="material_deep_teal_500">#ff607d8b</color>
+    <color name="material_blue_grey_950">#ff202d30</color>
+    <color name="skin_color_background_settings">#ff232323</color>
+    <color name="skin_color_background_settings_switchbar">#ff131313</color>
+
+    <color name="datepicker_default_pressed_text_color_material_light">#ff607d8b</color>
+    <color name="datepicker_default_pressed_text_color_material_dark">#ff607d8b</color>
+
+</resources>

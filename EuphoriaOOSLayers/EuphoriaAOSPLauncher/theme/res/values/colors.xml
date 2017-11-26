@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="quantum_panel_text_color">#ffffffff</color>
+    <color name="quantum_panel_text_shadow_color">#ffe5e5e5</color>
+	<color name="quantum_panel_bg_color">#ff232323</color>
+    <color name="info_target_hover_tint">#ff607D8B</color>
+    <color name="container_fastscroll_thumb_inactive_color">#ff607D8B</color>
+    <color name="container_fastscroll_thumb_active_color">#ff607D8B</color>
+    <color name="all_apps_grid_section_text_color">#ff607D8B</color>
+    <color name="launcher_accent_color">#ff607D8B</color>	
+</resources>

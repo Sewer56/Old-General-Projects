@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="app_bar_primary_background">#ff607D8B</color>
+    <color name="upload_edit_video_tutorial_background">#ff607D8B</color>
+
+    <!-- Text -->
+    <color name="guide_selected_text_color">#ff607D8B</color>
+    <color name="q_subscribe_button_subscribe_font_color">#ff607D8B</color>
+
+    <!--Palette Override-->
+    <color name="red">#ff607D8B</color>
+    <color name="theme_main_color_primary_dark">#ff455A64</color>
+    <color name="material_deep_teal_200">#ff607D8B</color>
+    <color name="material_deep_teal_500">#ff607D8B</color>
+
+    <!-- Statusbar -->
+    <color name="color_primary">#ff607D8B</color>
+    <color name="theme_main_color_primary">#ff607D8B</color>
+    <color name="account_switcher_color_primary">#ff607D8B</color>
+    <color name="primary_light">#ff607D8B</color>
+    <color name="primary_dark">#ff607D8B</color>
+    <color name="secondary_dark">#ff607D8B</color>
+
+    <!--Highlights-->
+    <color name="highlighted_text_material_dark">#ff607D8B</color>
+    <color name="highlighted_text_material_light">#ff607D8B</color>
+
+    <!--Ripples-->
+    <color name="ripple_material_dark">#ff607D8B</color>
+    <color name="ripple_material_light">#ff607D8B</color>
+
+    <!-- ActionBar-->
+    <color name="theme_channel_actionbar_text_color_primary">#ffffffff</color>
+    <color name="theme_channel_actionbar_text_color_secondary">#ffffffff</color>
+    <color name="theme_search_actionbar_text_color_primary">#ffffffff</color>
+    <color name="theme_search_actionbar_text_color_secondary">#ffffffff</color>
+    <color name="theme_watch_actionbar_text_color_primary">#ffffffff</color>
+    <color name="theme_watch_actionbar_text_color_secondary">#ffffffff</color>
+    <color name="theme_native_actionbar_text_color_primary">#ffffffff</color>
+    <color name="theme_native_actionbar_text_color_secondary">#ffffffff</color>
+    <color name="theme_main_actionbar_text_color_primary">#ffffffff</color>
+    <color name="theme_main_actionbar_text_color_secondary">#ffffffff</color>
+    <color name="theme_main_actionbar_controls_color">#ffffffff</color>
+    <color name="theme_search_color_primary">#ff757575</color>
+    <color name="theme_search_color_primary_dark">#ff757575</color>
+
+    <!-- Other-->
+    <color name="phone_number_verification_red">#ff607D8B</color>
+    <color name="upload_edit_video_tutorial_border">#ff607D8B</color>
+    <color name="remote_queue_time_bar">#ff607D8B</color>
+    <color name="startup_promo_activity_pagination_cursor_color">#ff607D8B</color>
+    <color name="info_card_link_color">#ff607D8B</color>
+    <color name="corrected_query_link_color">#ff607D8B</color>
+    <color name="playlist_channel_clickable_text_color">#ff607D8B</color>
+    <color name="playlist_channel_unclickable_text_color">#ff757575</color>
+</resources>

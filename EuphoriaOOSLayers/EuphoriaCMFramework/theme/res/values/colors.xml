@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2014 The CyanogenMod Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+-->
+
+<resources>
+
+    <color name="holo_blue_bright">#ff607D8B</color>
+    <color name="holo_blue_dark">#ff607D8B</color>
+    <color name="holo_blue_light">#ff607D8B</color>
+    <color name="background_holo_dark">#ff232323</color>
+    <color name="background_holo_light">#fff3f3f3</color>
+    <color name="bright_foreground_holo_dark">@color/background_holo_light</color>
+    <color name="bright_foreground_holo_light">@color/background_holo_dark</color>
+    <color name="bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="bright_foreground_inverse_holo_dark">@color/bright_foreground_holo_light</color>
+    <color name="bright_foreground_inverse_holo_light">@color/bright_foreground_holo_dark</color>
+    <color name="dim_foreground_holo_dark">#ffbebebe</color>
+    <color name="dim_foreground_disabled_holo_dark">#80bebebe</color>
+    <color name="dim_foreground_inverse_holo_dark">#ff323232</color>
+    <color name="dim_foreground_inverse_disabled_holo_dark">#80323232</color>
+    <color name="hint_foreground_holo_dark">#ff808080</color>
+    <color name="dim_foreground_holo_light">#ff323232</color>
+    <color name="dim_foreground_disabled_holo_light">#80323232</color>
+    <color name="dim_foreground_inverse_holo_light">#ffbebebe</color>
+    <color name="dim_foreground_inverse_disabled_holo_light">#80bebebe</color>
+    <color name="hint_foreground_holo_light">#ff808080</color>
+    <color name="highlighted_text_holo_dark">#6633b5e5</color>
+    <color name="highlighted_text_holo_light">#6633b5e5</color>
+    <color name="link_text_holo_dark">#ff607D8B</color>
+    <color name="link_text_holo_light">#ff607D8B</color>
+    <color name="accent_material_dark">#ff607D8B</color>
+    <color name="accent_material_light">#ff607D8B</color>    
+        
+	
+	<color name="material_deep_teal_200">#ff607D8B</color>
+    <color name="material_deep_teal_500">#ff607D8B</color>
+	<color name="button_material_dark">#ff333333</color>
+	<color name="background_material_dark">#ff232323</color>
+	<color name="background_material_light">#ffffffff</color>	
+    <color name="primary_material_dark">#ff607D8B</color>
+    <color name="primary_material_light">#ffffffff</color>
+    <color name="background_floating_material_dark">#ff232323</color>	
+	
+    <color name="battery_saver_mode_color">#ffFF5722</color>
+	
+	<color name="user_icon_1">#ff607D8B</color>
+    <color name="user_icon_2">#ff607D8B</color>
+    <color name="user_icon_3">#ff607D8B</color>
+    <color name="user_icon_4">#ff607D8B</color>
+    <color name="user_icon_5">#ff607D8B</color>
+    <color name="user_icon_6">#ff607D8B</color>
+    <color name="user_icon_7">#ff607D8B</color>
+    <color name="user_icon_8">#ff607D8B</color>	
+	
+	<color name="notification_icon_bg_color">#ff232323</color>
+    <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_media_primary_color">#ffffffff</color>
+    <color name="notification_media_secondary_color">#ffffffff</color>
+	<color name="system_notification_accent_color">#ff607D8B</color>
+	
+	<color name="primary_text_default_material_light">#de000000</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="secondary_text_default_material_dark">#ffffffff</color>
+	
+	<color name="colorEdgeEffect">#80607D8B</color>
+    <color name="ripple_material_dark">#80607D8B</color>
+    <color name="ripple_material_light">#80607D8B</color>	
+	
+	<!-- Layout -->
+	<color name="notification_material_action_textcolor">#ffffffff</color>
+	<color name="notification_template_material_big_picture_background_color">#ff232323</color>
+	
+    <color name="notification_mtrl_action_textcolor">#ffffffff</color>
+    <color name="notification_mtrl_big_picture_bg">#ff232323</color>
+    <color name="resolver_list_bg">#ff232323</color>
+	<color name="chooser_service_row_background_color">#ff232323</color>
+	<color name="app_permission_icon_tint">#ffffffff</color>	
+
+</resources>

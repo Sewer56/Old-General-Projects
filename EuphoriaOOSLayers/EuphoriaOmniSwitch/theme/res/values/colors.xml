@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_shadow">#00000000</color>
+    <color name="bg_flat_color">#ff232323</color>
+    <color name="bg_flat_color_dark">#ff232323</color>
+    <color name="button_bg_flat_color">#ff232323</color>
+    <color name="ripple_material_light">#40000000</color>
+    <color name="ripple_material_dark">#40ffffff</color>
+    <color name="fake_window_shade_color">#40232323</color>
+    <color name="rambar_left_color">@color/colorPrimary</color>
+    <color name="rambar_middle_color">@color/colorPrimary</color>
+    <color name="rambar_right_color">#ff131313</color>
+    <color name="default_drag_handle_color">@color/colorPrimary</color>
+    <color name="material_blue_grey_900">#ff232323</color>
+    <color name="material_grey_50">#ff232323</color>
+    <color name="material_grey_100">#ff232323</color>
+    <color name="material_grey_300">#ff232323</color>
+    <color name="material_grey_600">#ff232323</color>
+    <color name="material_grey_800">#ff232323</color>
+    <color name="material_grey_850">#ff232323</color>
+    <color name="colorAccent">#ff607D8B</color>
+    <color name="colorPrimary">#ff607D8B</color>
+    <color name="colorPrimaryDark">#ff455A64</color>
+</resources>

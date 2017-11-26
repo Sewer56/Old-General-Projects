@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="highlighted_text_material_dark">#80607D8B</color>
+        <color name="highlighted_text_material_light">#80607D8B</color>
+        <color name="material_deep_teal_200">#ff607D8B</color>
+        <color name="material_deep_teal_500">#ff607D8B</color>
+        <color name="accent_blue">#ff607D8B</color>
+        <color name="quantum_googred400">#ffB0BEC5</color>
+        <color name="quantum_googred500">#ff607D8B</color>
+        <color name="quantum_googred800">#ff455A64</color>
+</resources>

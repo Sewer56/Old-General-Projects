@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="emailLabelsGroup">" "<font color="@android:color/holo_blue_bright">Email</font>"  "</string>
+    <string name="event_edit_field_hint_text">" "<font color="@android:color/holo_blue_bright"> Date</font>"  "</string>
+    <string name="full_name">" "<font color="@android:color/holo_blue_bright">Name</font>"  "</string>
+    <string name="ghostData_company">" "<font color="@android:color/holo_blue_bright">Company</font>"   "</string>
+    <string name="ghostData_title">" "<font color="@android:color/holo_blue_bright">Title</font>"  "</string>
+    <string name="group_edit_field_hint_text">" "<font color="@android:color/holo_blue_bright">Group name</font>"  "</string>
+    <string name="imLabelsGroup">" "<font color="@android:color/holo_blue_bright">IM</font>"  "</string>
+    <string name="label_notes">" "<font color="@android:color/holo_blue_bright">Notes</font>"  "</string>
+    <string name="label_sip_address">" "<font color="@android:color/holo_blue_bright">SIP</font>"  "</string>
+    <string name="nameLabelsGroup">" "<font color="@android:color/holo_blue_bright">Name</font>"  "</string>
+    <string name="name_family">" "<font color="@android:color/holo_blue_bright">Last name</font>"  "</string>
+    <string name="name_given">" "<font color="@android:color/holo_blue_bright">First name</font>"  "</string>
+    <string name="name_middle">" "<font color="@android:color/holo_blue_bright">Middle name</font>"  "</string>
+    <string name="name_phonetic">" "<font color="@android:color/holo_blue_bright">Phonetic name</font>"  "</string>
+    <string name="name_phonetic_family">" "<font color="@android:color/holo_blue_bright">Phonetic last name</font>"  "</string>
+    <string name="name_phonetic_given">" "<font color="@android:color/holo_blue_bright">Phonetic first name</font>"  "</string>
+    <string name="name_phonetic_middle">" "<font color="@android:color/holo_blue_bright">Phonetic middle name</font>"  "</string>
+    <string name="name_prefix">" "<font color="@android:color/holo_blue_bright">Name prefix</font>"
+         "</string>
+    <string name="name_suffix">" "<font color="@android:color/holo_blue_bright">Name suffix</font>"
+         "</string>
+    <string name="nicknameLabelsGroup">" "<font color="@android:color/holo_blue_bright"> Nickname</font>"  "</string>
+    <string name="phoneLabelsGroup">" "<font color="@android:color/holo_blue_bright">Phone</font>"  "</string>
+    <string name="postalLabelsGroup">" "<font color="@android:color/holo_blue_bright">Address</font>"   "</string>
+    <string name="postal_address">" "<font color="@android:color/holo_blue_bright">Address</font>"  "</string>
+    <string name="relationLabelsGroup">" "<font color="@android:color/holo_blue_bright"> Relationship</font>"  "</string>
+    <string name="websiteLabelsGroup">" "<font color="@android:color/holo_blue_bright"> Website</font>"  "</string>
+</resources>

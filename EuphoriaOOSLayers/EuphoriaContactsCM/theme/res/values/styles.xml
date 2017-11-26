@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BackgroundOnlyTheme" parent="@android:style/Theme.Material" />
+    <style name="ConfirmAddDetailDialogTheme" parent="@android:style/Theme.Material.Dialog.MinWidth" />
+    <style name="ContactEditorAccountsChangedActivityTheme" parent="@android:style/Theme.Material.Dialog.NoActionBar.MinWidth" />
+    <style name="ContactListFilterTheme" parent="@android:style/Theme.Material" />
+    <style name="ContactsActionBarDropDownStyle" parent="@android:style/Widget.Holo.Spinner" />
+    <style name="ContactsActionBarOverflowQP" parent="@android:style/Widget.Material.ActionButton.Overflow" />
+    <style name="ContactsActionBarTabTextStyle" parent="@android:style/Widget.Material.ActionBar.TabText" />
+    <style name="ContactsActionBarTheme" parent="@android:style/Theme.Material">
+        <item name="android:popupMenuStyle">@android:style/Widget.Material.Button</item>
+    </style>
+    <style name="ContactsAlertDialogTheme" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:colorAccent">@android:color/holo_blue_light</item>
+    </style>
+    <style name="DetailActivityTheme" parent="@android:style/Theme.Material" />
+    <style name="ListViewStyle" parent="@android:style/Widget.Material.ListView" />
+    <style name="NonPhoneDialogTheme" parent="@android:style/Theme.Material.Dialog" />
+    <style name="PeopleTheme1" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">@android:color/holo_blue_light</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_blue_dark</item>
+        <item name="android:colorAccent">@android:color/holo_blue_light</item>
+    </style>
+    <style name="SelectableItem" parent="@android:style/Theme.Material" />
+    <style name="TextAppearanceMedium" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearanceSmall" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+</resources>

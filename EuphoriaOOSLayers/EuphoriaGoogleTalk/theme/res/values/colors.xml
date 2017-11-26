@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#ff607D8B</color>
+    <color name="primary_dark">#ff455A64</color>
+    <color name="dialpad_primary_text_color">#ff607D8B</color>
+    <color name="bg_item_activated">#67607d8b</color>
+    <color name="bg_item_selected">#cc607d8b</color>
+    <color name="bg_item_pressed">#67607d8b</color>
+    <color name="quantum_googgreen500">#ff607D8B</color>
+    <color name="quantum_googgreen700">#ff455A64</color>
+    <color name="accent_dark">#ff455A64</color>
+    <color name="accent">#ff607D8B</color>	
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/ThemeOverlay.Material.Dark">
+        <item name="android:colorBackground">#ff232323</item>
+        <item name="android:colorForeground">#ff232323</item>
+    </style>
+    <style name="Platform.AppCompat.Light" parent="@android:style/ThemeOverlay.Material.Dark">
+        <item name="android:colorBackground">#ff232323</item>
+        <item name="android:colorForeground">#ff232323</item>
+    </style>
+</resources>

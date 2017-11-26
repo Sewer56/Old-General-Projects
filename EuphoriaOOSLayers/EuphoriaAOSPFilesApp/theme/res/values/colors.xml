@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_grey_50">#ff232323</color>
+    <color name="material_grey_300">#ff232323</color>
+    <color name="item_doc_grid_background">#ff131313</color>
+    <color name="item_doc_grid_protect_background">#ff232323</color>
+    <color name="item_doc_grid_overlay_activated">#ffffffff</color>
+    <color name="item_doc_grid_overlay_disabled">#66000000</color>
+    <color name="item_doc_list_overlay_disabled">#66ffffff</color>
+    <color name="doc_icon_tint">#ff607D8B</color>
+    <color name="drawer_background_color">#ff232323</color>
+    <color name="font_color_doc_grid">#ffffffff</color>
+</resources>
