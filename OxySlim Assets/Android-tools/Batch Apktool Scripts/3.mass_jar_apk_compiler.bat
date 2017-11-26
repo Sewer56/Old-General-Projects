@@ -1,1 +1,0 @@
-for /D %%f in (*) do apktool b "%%f"

@@ -1,1 +1,0 @@
-Used for extracting stock Android ROMs packaged in update zips.

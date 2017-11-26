@@ -1,1 +1,0 @@
-Note: This is the EP version, SQ version is identical but uses a different red, alternate palette.

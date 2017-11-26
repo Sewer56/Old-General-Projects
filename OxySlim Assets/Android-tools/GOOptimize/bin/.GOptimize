@@ -1,7 +1,0 @@
-source /bin/.ManualGO
-echo -e "##########[ MiniCygwin OxySlim Updated GOptimize ]###########"
-echo -e "See ".DefaultGO" inside the /bin/ folder to edit defaults"
-echo -e "\n[i] Put APK's in \"PlaceApksHere\"";
-echo -e "    and press any key to start...\n"; read -sn1;
-source /bin/.DefaultGO
-echo -e "\n\n[i] Press any key to exit..."; read -sn1; exit 0;
