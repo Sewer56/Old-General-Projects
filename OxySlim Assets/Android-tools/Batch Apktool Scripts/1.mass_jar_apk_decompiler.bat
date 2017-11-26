@@ -1,0 +1,1 @@
+for %%f in (*.jar *.apk) do apktool d -b %%f

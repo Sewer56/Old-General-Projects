@@ -1,0 +1,1 @@
+APK-MULTI-TOOL with updated binaries such as apktool to stay to date, currently up to date as of 28/03/2016.
