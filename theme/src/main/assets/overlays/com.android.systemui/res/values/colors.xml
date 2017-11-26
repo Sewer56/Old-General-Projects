@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Label color of app in recents cards -->
+    <color name="status_bar_recents_app_label_color">#feffffff</color>
+
+
+    <!-- Quick settings background -->
+    <color name="system_primary_color">@*common:color/darknight_bg</color>
+
+    <!-- Quick settings header background -->
+    <color name="system_secondary_color">@*common:color/darknight_bg_dark</color>
+
+    <!--- Accent color -->
+    <color name="system_accent_color">@*common:color/accent</color>
+
+    <color name="qs_text">#feffffff</color>
+    <color name="qs_tile_divider">#08fefefe</color>
+    <color name="qs_tile_text">#f0ffffff</color>
+    <color name="qs_detail_empty">#242080df</color>
+    <!-- Transition color when expanding QS tile -->
+    <color name="qs_detail_transition">#64ffffff</color>
+    <color name="qs_detail_progress_track">#a01976d2</color>
+    <color name="data_usage_secondary">#99ffffff</color>
+    <color name="data_usage_graph_track">#33ffffff</color>
+    <color name="data_usage_graph_warning">#ffffffff</color>
+
+    <color name="status_bar_clock_color">#feffffff</color>
+
+
+    <!-- Tint color for the content on the notification overflow card. -->
+    <color name="keyguard_overflow_content_color">#ff686868</color>
+
+    <!-- The default recents task bar background color. -->
+    <color name="recents_task_bar_default_background_color">#ff040404</color>
+    <!-- The recents task bar light text color to be drawn on top of dark backgrounds. -->
+    <color name="recents_task_bar_light_text_color">#feefefef</color>
+    <!-- The recents task bar dark text color to be drawn on top of light backgrounds. -->
+    <color name="recents_task_bar_dark_text_color">#d8000000</color>
+    <!-- The recents task bar light dismiss icon color to be drawn on top of dark backgrounds. -->
+    <color name="recents_task_bar_light_dismiss_color">#feefefef</color>
+    <!-- The recents task bar dark dismiss icon color to be drawn on top of light backgrounds. -->
+    <color name="recents_task_bar_dark_dismiss_color">#a0000000</color>
+    <!-- The recents task bar highlight color. -->
+    <color name="recents_task_bar_highlight_color">#28000000</color>
+    <!-- The lock to task button background color. -->
+    <color name="recents_task_view_lock_to_app_button_background_color">#ff040404</color>
+    <!-- The lock to task button foreground color. -->
+    <color name="recents_task_view_lock_to_app_button_color">#ffc4c4c4</color>
+
+
+    <!-- The color of the legacy notification background -->
+    <color name="notification_legacy_background_color">#df14191f</color>
+
+    <!-- The color of the material notification background -->
+    <color name="notification_material_background_color">#df14191f</color>
+    <color name="notification_material_background_low_priority_color">#df14191f</color>
+    <color name="notification_material_background_media_default_color">#df14191f</color>
+    <color name="notification_material_background_dimmed_color">#d014191f</color>
+
+    <!-- The color of the ripples on the untinted notifications -->
+    <color name="notification_ripple_untinted_color">#24ffffff</color>
+
+    <!-- The color of the ripples on the low priority notifications -->
+    <color name="notification_ripple_color_low_priority">#24ffffff</color>
+
+    <!-- The color of the ripples on the tinted notifications -->
+    <color name="notification_ripple_tinted_color">#30fefefe</color>
+
+
+
+    <!-- The "inside" of a notification, reached via longpress -->
+    <color name="notification_guts_bg_color">@color/system_secondary_color</color>
+    <color name="notification_guts_title_color">#feffffff</color>
+    <color name="notification_guts_text_color">#b4ffffff</color>
+    <color name="notification_guts_btn_color">#feffffff</color>
+
+    <color name="search_panel_circle_color">#ff000000</color>
+    <color name="search_panel_ripple_color">#fff4f4f4</color>
+
+    <!-- Shadow color for the first pixels around the fake shadow for recents. -->
+    <color name="fake_shadow_start_color">#48000000</color>
+
+    <!-- Shadow color for the furthest pixels around the fake shadow for recents. -->
+    <color name="fake_shadow_end_color">#03010101</color>
+
+    <color name="segmented_button_selected">#ffffffff</color>
+    <color name="segmented_button_unselected">#b26eb9f7</color>
+    <color name="volume_panel_divider">#1efefefe</color>
+
+    <!-- The color of the circle around the primary user in the user switcher -->
+    <color name="current_user_border_color">@color/system_accent_color</color>
+
+
+    <!-- cm_colors -->
+
+
+    <!-- Color for the "No recent apps" text in the recent apps list. -->
+    <color name="no_recent_apps">#fbe3f2fd</color>
+
+    <!-- Color for notification icons -->
+    <color name="notification_icon_color">#feffffff</color>
+
+    <!-- Navigation button ripple color -->
+    <color name="navbutton_ripple_color">#feffffff</color>
+
+    <!-- Quick tile text color when the tile is disabled -->
+    <color name="qs_tile_text_disabled">#fd868686</color>
+
+    <!-- Expanded Status Bar Weather Text Colors -->
+    <color name="status_bar_temperature_text_color">#ffffffff</color>
+    <color name="status_bar_temperature_location_text_color">#fbffffff</color>
+
+    <!-- Expanded Status Bar Alarm Status Text Color -->
+    <color name="status_bar_alarm_status_text_color">#72ffffff</color>
+
+    <!-- Expanded Status Bar Battery Level Text Color -->
+    <color name="status_bar_battery_level_text_color">#fdfefefe</color>
+
+    <color name="notification_guts_media_bg_color">#fb606060</color>
+
+</resources>
